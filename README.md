@@ -3,8 +3,6 @@
 A fun **Tic Tac Toe Game** built with **Laravel 11**.
 This project allows two players to play Tic Tac Toe in the browser with a clean UI. It highlights the winner and provides a restart option.
 
-![Tic Tac Toe Screenshot](./public/screenshots/tictactoe.png)
-
 ---
 
 ## 🚀 Features
