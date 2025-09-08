@@ -41,27 +41,33 @@ tic-tac-toe/
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/phpwhizdeveloper002/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
 ```
 
-### 3️⃣ Set up environment file
+### 2 Set up environment file
 
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
 
-### 4️⃣ Run migrations (if needed)
+### 3 Install Composer
+
+```bash
+composer install
+```
+
+### 4 Run migrations (if needed)
 
 ```bash
 php artisan migrate
 ```
 
-### 5️⃣ Start the server
+### 5 Start the server
 
 ```bash
 php artisan serve
