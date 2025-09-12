@@ -85,4 +85,9 @@ Now visit 👉 `http://127.0.0.1:8000` to play the game.
 4. If all squares are filled with no winner, the game ends in a **draw**.
 5. Click **Restart** to play again.
 
+## 🖼️ Screenshot
+
+<img width="1882" height="656" alt="tictactoe" src="https://github.com/user-attachments/assets/7d6c2a04-8061-4cb5-a8fd-36152e9c743f" />
+
+
 
